@@ -1,0 +1,6 @@
+D:\OneDrive\University\SoftUni Fundamentals\OOP in C#\04. Encapsulation-and-Polymorphism-Homework\Pr02BankOfKurtovoKonare\bin\Debug\Pr02BankOfKurtovoKonare.exe.config
+D:\OneDrive\University\SoftUni Fundamentals\OOP in C#\04. Encapsulation-and-Polymorphism-Homework\Pr02BankOfKurtovoKonare\bin\Debug\Pr02BankOfKurtovoKonare.exe
+D:\OneDrive\University\SoftUni Fundamentals\OOP in C#\04. Encapsulation-and-Polymorphism-Homework\Pr02BankOfKurtovoKonare\bin\Debug\Pr02BankOfKurtovoKonare.pdb
+D:\OneDrive\University\SoftUni Fundamentals\OOP in C#\04. Encapsulation-and-Polymorphism-Homework\Pr02BankOfKurtovoKonare\obj\Debug\Pr02BankOfKurtovoKonare.csprojResolveAssemblyReference.cache
+D:\OneDrive\University\SoftUni Fundamentals\OOP in C#\04. Encapsulation-and-Polymorphism-Homework\Pr02BankOfKurtovoKonare\obj\Debug\Pr02BankOfKurtovoKonare.exe
+D:\OneDrive\University\SoftUni Fundamentals\OOP in C#\04. Encapsulation-and-Polymorphism-Homework\Pr02BankOfKurtovoKonare\obj\Debug\Pr02BankOfKurtovoKonare.pdb

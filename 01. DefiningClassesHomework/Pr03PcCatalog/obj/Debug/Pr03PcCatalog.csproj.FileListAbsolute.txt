@@ -1,0 +1,6 @@
+D:\OneDrive\Workspace\C#\DefiningClassesHomework\Pr03PcCatalog\bin\Debug\Pr03PcCatalog.exe.config
+D:\OneDrive\Workspace\C#\DefiningClassesHomework\Pr03PcCatalog\obj\Debug\Pr03PcCatalog.csprojResolveAssemblyReference.cache
+D:\OneDrive\Workspace\C#\DefiningClassesHomework\Pr03PcCatalog\bin\Debug\Pr03PcCatalog.exe
+D:\OneDrive\Workspace\C#\DefiningClassesHomework\Pr03PcCatalog\bin\Debug\Pr03PcCatalog.pdb
+D:\OneDrive\Workspace\C#\DefiningClassesHomework\Pr03PcCatalog\obj\Debug\Pr03PcCatalog.exe
+D:\OneDrive\Workspace\C#\DefiningClassesHomework\Pr03PcCatalog\obj\Debug\Pr03PcCatalog.pdb

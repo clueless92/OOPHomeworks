@@ -1,0 +1,6 @@
+D:\OneDrive\Workspace\C#\InheritanceAndAbstractionHomework\Pr01HumanStudentAndWorker\bin\Debug\Pr01HumanStudentAndWorker.exe.config
+D:\OneDrive\Workspace\C#\InheritanceAndAbstractionHomework\Pr01HumanStudentAndWorker\bin\Debug\Pr01HumanStudentAndWorker.exe
+D:\OneDrive\Workspace\C#\InheritanceAndAbstractionHomework\Pr01HumanStudentAndWorker\bin\Debug\Pr01HumanStudentAndWorker.pdb
+D:\OneDrive\Workspace\C#\InheritanceAndAbstractionHomework\Pr01HumanStudentAndWorker\obj\Debug\Pr01HumanStudentAndWorker.csprojResolveAssemblyReference.cache
+D:\OneDrive\Workspace\C#\InheritanceAndAbstractionHomework\Pr01HumanStudentAndWorker\obj\Debug\Pr01HumanStudentAndWorker.exe
+D:\OneDrive\Workspace\C#\InheritanceAndAbstractionHomework\Pr01HumanStudentAndWorker\obj\Debug\Pr01HumanStudentAndWorker.pdb

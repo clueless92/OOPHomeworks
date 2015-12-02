@@ -1,0 +1,5 @@
+D:\OneDrive\Workspace\C#\HW02-OOP-Exception-Handling\Pr02EnterNumbers\bin\Debug\Pr02EnterNumbers.exe.config
+D:\OneDrive\Workspace\C#\HW02-OOP-Exception-Handling\Pr02EnterNumbers\bin\Debug\Pr02EnterNumbers.exe
+D:\OneDrive\Workspace\C#\HW02-OOP-Exception-Handling\Pr02EnterNumbers\bin\Debug\Pr02EnterNumbers.pdb
+D:\OneDrive\Workspace\C#\HW02-OOP-Exception-Handling\Pr02EnterNumbers\obj\Debug\Pr02EnterNumbers.exe
+D:\OneDrive\Workspace\C#\HW02-OOP-Exception-Handling\Pr02EnterNumbers\obj\Debug\Pr02EnterNumbers.pdb

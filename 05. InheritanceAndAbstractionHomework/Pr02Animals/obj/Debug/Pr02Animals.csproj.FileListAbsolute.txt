@@ -1,0 +1,6 @@
+D:\OneDrive\Workspace\C#\InheritanceAndAbstractionHomework\Pr02Animals\bin\Debug\Pr02Animals.exe.config
+D:\OneDrive\Workspace\C#\InheritanceAndAbstractionHomework\Pr02Animals\bin\Debug\Pr02Animals.exe
+D:\OneDrive\Workspace\C#\InheritanceAndAbstractionHomework\Pr02Animals\bin\Debug\Pr02Animals.pdb
+D:\OneDrive\Workspace\C#\InheritanceAndAbstractionHomework\Pr02Animals\obj\Debug\Pr02Animals.csprojResolveAssemblyReference.cache
+D:\OneDrive\Workspace\C#\InheritanceAndAbstractionHomework\Pr02Animals\obj\Debug\Pr02Animals.exe
+D:\OneDrive\Workspace\C#\InheritanceAndAbstractionHomework\Pr02Animals\obj\Debug\Pr02Animals.pdb

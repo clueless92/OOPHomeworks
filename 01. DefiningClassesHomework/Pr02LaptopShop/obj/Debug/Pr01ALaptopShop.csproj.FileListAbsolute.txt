@@ -1,0 +1,6 @@
+D:\OneDrive\Workspace\C#\DefiningClassesHomework\Pr02LaptopShop\bin\Debug\Pr02LaptopShop.exe.config
+D:\OneDrive\Workspace\C#\DefiningClassesHomework\Pr02LaptopShop\bin\Debug\Pr02LaptopShop.exe
+D:\OneDrive\Workspace\C#\DefiningClassesHomework\Pr02LaptopShop\bin\Debug\Pr02LaptopShop.pdb
+D:\OneDrive\Workspace\C#\DefiningClassesHomework\Pr02LaptopShop\obj\Debug\Pr01ALaptopShop.csprojResolveAssemblyReference.cache
+D:\OneDrive\Workspace\C#\DefiningClassesHomework\Pr02LaptopShop\obj\Debug\Pr02LaptopShop.exe
+D:\OneDrive\Workspace\C#\DefiningClassesHomework\Pr02LaptopShop\obj\Debug\Pr02LaptopShop.pdb

@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pr01SquareRoot", "Pr01SquareRoot\Pr01SquareRoot.csproj", "{45962D7A-C649-4795-B911-F0C4F548F204}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pr02EnterNumbers", "Pr02EnterNumbers\Pr02EnterNumbers.csproj", "{FCF94EDC-A404-4BA7-BC30-B9B0292AC4DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45962D7A-C649-4795-B911-F0C4F548F204}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45962D7A-C649-4795-B911-F0C4F548F204}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45962D7A-C649-4795-B911-F0C4F548F204}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45962D7A-C649-4795-B911-F0C4F548F204}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCF94EDC-A404-4BA7-BC30-B9B0292AC4DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCF94EDC-A404-4BA7-BC30-B9B0292AC4DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCF94EDC-A404-4BA7-BC30-B9B0292AC4DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCF94EDC-A404-4BA7-BC30-B9B0292AC4DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

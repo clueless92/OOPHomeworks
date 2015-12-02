@@ -1,0 +1,6 @@
+D:\OneDrive\Workspace\C#\DefiningClassesHomework\DefiningClassesHomework\bin\Debug\DefiningClassesHomework.exe.config
+D:\OneDrive\Workspace\C#\DefiningClassesHomework\DefiningClassesHomework\bin\Debug\DefiningClassesHomework.exe
+D:\OneDrive\Workspace\C#\DefiningClassesHomework\DefiningClassesHomework\bin\Debug\DefiningClassesHomework.pdb
+D:\OneDrive\Workspace\C#\DefiningClassesHomework\DefiningClassesHomework\obj\Debug\Pr01Persons.csprojResolveAssemblyReference.cache
+D:\OneDrive\Workspace\C#\DefiningClassesHomework\DefiningClassesHomework\obj\Debug\DefiningClassesHomework.exe
+D:\OneDrive\Workspace\C#\DefiningClassesHomework\DefiningClassesHomework\obj\Debug\DefiningClassesHomework.pdb

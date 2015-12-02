@@ -1,0 +1,6 @@
+D:\OneDrive\University\SoftUni Fundamentals\OOP in C#\04. Encapsulation-and-Polymorphism-Homework\Pr01Shapes\bin\Debug\Pr01Shapes.exe.config
+D:\OneDrive\University\SoftUni Fundamentals\OOP in C#\04. Encapsulation-and-Polymorphism-Homework\Pr01Shapes\bin\Debug\Pr01Shapes.exe
+D:\OneDrive\University\SoftUni Fundamentals\OOP in C#\04. Encapsulation-and-Polymorphism-Homework\Pr01Shapes\bin\Debug\Pr01Shapes.pdb
+D:\OneDrive\University\SoftUni Fundamentals\OOP in C#\04. Encapsulation-and-Polymorphism-Homework\Pr01Shapes\obj\Debug\Pr01Shapes.csprojResolveAssemblyReference.cache
+D:\OneDrive\University\SoftUni Fundamentals\OOP in C#\04. Encapsulation-and-Polymorphism-Homework\Pr01Shapes\obj\Debug\Pr01Shapes.exe
+D:\OneDrive\University\SoftUni Fundamentals\OOP in C#\04. Encapsulation-and-Polymorphism-Homework\Pr01Shapes\obj\Debug\Pr01Shapes.pdb

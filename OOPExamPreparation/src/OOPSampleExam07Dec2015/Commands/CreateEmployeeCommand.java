@@ -1,6 +1,6 @@
 package OOPSampleExam07Dec2015.Commands;
 
-import OOPSampleExam07Dec2015.EmployeeFactory;
+import OOPSampleExam07Dec2015.Core.EmployeeFactory;
 import OOPSampleExam07Dec2015.Interfaces.Database;
 import OOPSampleExam07Dec2015.Models.Interfaces.Employable;
 import OOPSampleExam07Dec2015.Models.Interfaces.Manageable;

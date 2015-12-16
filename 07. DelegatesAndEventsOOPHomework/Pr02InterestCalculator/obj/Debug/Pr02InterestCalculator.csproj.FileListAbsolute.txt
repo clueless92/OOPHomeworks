@@ -1,0 +1,5 @@
+D:\OneDrive\Workspace\C#\DelegatesAndEventsOOPHomework\Pr02InterestCalculator\bin\Debug\Pr02InterestCalculator.exe.config
+D:\OneDrive\Workspace\C#\DelegatesAndEventsOOPHomework\Pr02InterestCalculator\bin\Debug\Pr02InterestCalculator.exe
+D:\OneDrive\Workspace\C#\DelegatesAndEventsOOPHomework\Pr02InterestCalculator\bin\Debug\Pr02InterestCalculator.pdb
+D:\OneDrive\Workspace\C#\DelegatesAndEventsOOPHomework\Pr02InterestCalculator\obj\Debug\Pr02InterestCalculator.exe
+D:\OneDrive\Workspace\C#\DelegatesAndEventsOOPHomework\Pr02InterestCalculator\obj\Debug\Pr02InterestCalculator.pdb

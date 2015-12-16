@@ -1,0 +1,6 @@
+D:\OneDrive\Workspace\C#\DelegatesAndEventsOOPHomework\Pr01CustomLINQExtensionMethods\bin\Debug\Pr01CustomLINQExtensionMethods.exe.config
+D:\OneDrive\Workspace\C#\DelegatesAndEventsOOPHomework\Pr01CustomLINQExtensionMethods\bin\Debug\Pr01CustomLINQExtensionMethods.exe
+D:\OneDrive\Workspace\C#\DelegatesAndEventsOOPHomework\Pr01CustomLINQExtensionMethods\bin\Debug\Pr01CustomLINQExtensionMethods.pdb
+D:\OneDrive\Workspace\C#\DelegatesAndEventsOOPHomework\Pr01CustomLINQExtensionMethods\obj\Debug\Pr01CustomLINQExtensionMethods.csprojResolveAssemblyReference.cache
+D:\OneDrive\Workspace\C#\DelegatesAndEventsOOPHomework\Pr01CustomLINQExtensionMethods\obj\Debug\Pr01CustomLINQExtensionMethods.exe
+D:\OneDrive\Workspace\C#\DelegatesAndEventsOOPHomework\Pr01CustomLINQExtensionMethods\obj\Debug\Pr01CustomLINQExtensionMethods.pdb

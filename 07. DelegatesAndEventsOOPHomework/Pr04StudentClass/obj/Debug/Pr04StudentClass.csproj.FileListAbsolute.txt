@@ -1,0 +1,6 @@
+D:\OneDrive\Workspace\C#\DelegatesAndEventsOOPHomework\Pr04StudentClass\bin\Debug\Pr04StudentClass.exe.config
+D:\OneDrive\Workspace\C#\DelegatesAndEventsOOPHomework\Pr04StudentClass\bin\Debug\Pr04StudentClass.exe
+D:\OneDrive\Workspace\C#\DelegatesAndEventsOOPHomework\Pr04StudentClass\bin\Debug\Pr04StudentClass.pdb
+D:\OneDrive\Workspace\C#\DelegatesAndEventsOOPHomework\Pr04StudentClass\obj\Debug\Pr04StudentClass.exe
+D:\OneDrive\Workspace\C#\DelegatesAndEventsOOPHomework\Pr04StudentClass\obj\Debug\Pr04StudentClass.pdb
+D:\OneDrive\Workspace\C#\DelegatesAndEventsOOPHomework\Pr04StudentClass\obj\Debug\Pr04StudentClass.csprojResolveAssemblyReference.cache

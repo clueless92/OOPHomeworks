@@ -1,0 +1,6 @@
+D:\OneDrive\Workspace\C#\OtherTypesInOOP\Pr02FractionCalculator\bin\Debug\Pr02FractionCalculator.exe.config
+D:\OneDrive\Workspace\C#\OtherTypesInOOP\Pr02FractionCalculator\bin\Debug\Pr02FractionCalculator.exe
+D:\OneDrive\Workspace\C#\OtherTypesInOOP\Pr02FractionCalculator\bin\Debug\Pr02FractionCalculator.pdb
+D:\OneDrive\Workspace\C#\OtherTypesInOOP\Pr02FractionCalculator\obj\Debug\Pr02FractionCalculator.exe
+D:\OneDrive\Workspace\C#\OtherTypesInOOP\Pr02FractionCalculator\obj\Debug\Pr02FractionCalculator.pdb
+D:\OneDrive\Workspace\C#\OtherTypesInOOP\Pr02FractionCalculator\obj\Debug\Pr02FractionCalculator.csprojResolveAssemblyReference.cache

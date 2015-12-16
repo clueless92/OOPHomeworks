@@ -1,0 +1,6 @@
+D:\OneDrive\Workspace\C#\OtherTypesInOOP\Pr01GalacticGPS\bin\Debug\Pr01GalacticGPS.exe.config
+D:\OneDrive\Workspace\C#\OtherTypesInOOP\Pr01GalacticGPS\obj\Debug\Pr01GalacticGPS.csprojResolveAssemblyReference.cache
+D:\OneDrive\Workspace\C#\OtherTypesInOOP\Pr01GalacticGPS\bin\Debug\Pr01GalacticGPS.exe
+D:\OneDrive\Workspace\C#\OtherTypesInOOP\Pr01GalacticGPS\bin\Debug\Pr01GalacticGPS.pdb
+D:\OneDrive\Workspace\C#\OtherTypesInOOP\Pr01GalacticGPS\obj\Debug\Pr01GalacticGPS.exe
+D:\OneDrive\Workspace\C#\OtherTypesInOOP\Pr01GalacticGPS\obj\Debug\Pr01GalacticGPS.pdb

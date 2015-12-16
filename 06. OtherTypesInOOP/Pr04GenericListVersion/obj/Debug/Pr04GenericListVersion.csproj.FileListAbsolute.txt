@@ -1,0 +1,6 @@
+D:\OneDrive\Workspace\C#\OtherTypesInOOP\Pr04GenericListVersion\bin\Debug\Pr04GenericListVersion.exe.config
+D:\OneDrive\Workspace\C#\OtherTypesInOOP\Pr04GenericListVersion\bin\Debug\Pr04GenericListVersion.exe
+D:\OneDrive\Workspace\C#\OtherTypesInOOP\Pr04GenericListVersion\bin\Debug\Pr04GenericListVersion.pdb
+D:\OneDrive\Workspace\C#\OtherTypesInOOP\Pr04GenericListVersion\obj\Debug\Pr04GenericListVersion.csprojResolveAssemblyReference.cache
+D:\OneDrive\Workspace\C#\OtherTypesInOOP\Pr04GenericListVersion\obj\Debug\Pr04GenericListVersion.exe
+D:\OneDrive\Workspace\C#\OtherTypesInOOP\Pr04GenericListVersion\obj\Debug\Pr04GenericListVersion.pdb

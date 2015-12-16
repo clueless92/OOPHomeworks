@@ -1,0 +1,6 @@
+D:\OneDrive\Workspace\C#\DelegatesAndEventsOOPHomework\Pr03AsynchronousTimer\bin\Debug\Pr03AsynchronousTimer.exe.config
+D:\OneDrive\Workspace\C#\DelegatesAndEventsOOPHomework\Pr03AsynchronousTimer\bin\Debug\Pr03AsynchronousTimer.exe
+D:\OneDrive\Workspace\C#\DelegatesAndEventsOOPHomework\Pr03AsynchronousTimer\bin\Debug\Pr03AsynchronousTimer.pdb
+D:\OneDrive\Workspace\C#\DelegatesAndEventsOOPHomework\Pr03AsynchronousTimer\obj\Debug\Pr03AsynchronousTimer.csprojResolveAssemblyReference.cache
+D:\OneDrive\Workspace\C#\DelegatesAndEventsOOPHomework\Pr03AsynchronousTimer\obj\Debug\Pr03AsynchronousTimer.exe
+D:\OneDrive\Workspace\C#\DelegatesAndEventsOOPHomework\Pr03AsynchronousTimer\obj\Debug\Pr03AsynchronousTimer.pdb

@@ -10,8 +10,7 @@ public class CapitalistEngine implements Runnable {
     private Database db;
     private InputOutput terminal;
 
-    public CapitalistEngine(Database db, InputOutput io)
-    {
+    public CapitalistEngine(Database db, InputOutput io) {
         this.db = db;
         this.terminal = io;
     }

@@ -72,7 +72,6 @@ public abstract class Employee implements Employable {
         double toPay = ceoSalary * percents;
         toPay = toPay + toPay * this.getSalaryFactor();
         this.setTotalPaid(this.getTotalPaid() + toPay);
-
         return toPay;
     }
 }

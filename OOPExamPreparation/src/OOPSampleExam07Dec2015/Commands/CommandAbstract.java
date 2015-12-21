@@ -7,8 +7,7 @@ public abstract class CommandAbstract implements Executable {
 
     protected Database db;
 
-    protected CommandAbstract(Database db)
-    {
+    protected CommandAbstract(Database db) {
         this.db = db;
     }
 

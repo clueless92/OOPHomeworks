@@ -10,8 +10,7 @@ public class CapitalistDatabase implements Database {
 
     private List<Manageable> companies;
 
-    public CapitalistDatabase()
-    {
+    public CapitalistDatabase() {
         this.companies = new ArrayList<Manageable>();
     }
 

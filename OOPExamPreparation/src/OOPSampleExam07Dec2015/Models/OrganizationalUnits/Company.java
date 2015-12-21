@@ -15,8 +15,7 @@ public class Company implements Manageable {
     private List<Employable> employees;
     private List<Employable> allEmployees;
 
-    public Company(String name)
-    {
+    public Company(String name) {
         this.setName(name);
         this.subUnits = new ArrayList<Manageable>();
         this.employees = new ArrayList<Employable>();

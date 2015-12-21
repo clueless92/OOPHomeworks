@@ -1,0 +1,6 @@
+D:\OneDrive\Workspace\C#\HomeworkCommonTypeSystemOOP\Pр02Customer\bin\Debug\Pр02Customer.exe.config
+D:\OneDrive\Workspace\C#\HomeworkCommonTypeSystemOOP\Pр02Customer\obj\Debug\Pр02Customer.csprojResolveAssemblyReference.cache
+D:\OneDrive\Workspace\C#\HomeworkCommonTypeSystemOOP\Pр02Customer\bin\Debug\Pр02Customer.exe
+D:\OneDrive\Workspace\C#\HomeworkCommonTypeSystemOOP\Pр02Customer\bin\Debug\Pр02Customer.pdb
+D:\OneDrive\Workspace\C#\HomeworkCommonTypeSystemOOP\Pр02Customer\obj\Debug\Pр02Customer.exe
+D:\OneDrive\Workspace\C#\HomeworkCommonTypeSystemOOP\Pр02Customer\obj\Debug\Pр02Customer.pdb

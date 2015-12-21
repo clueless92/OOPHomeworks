@@ -1,0 +1,5 @@
+D:\OneDrive\Workspace\C#\HomeworkCommonTypeSystemOOP\Pr03StringDisperser\bin\Debug\Pr03StringDisperser.exe.config
+D:\OneDrive\Workspace\C#\HomeworkCommonTypeSystemOOP\Pr03StringDisperser\bin\Debug\Pr03StringDisperser.exe
+D:\OneDrive\Workspace\C#\HomeworkCommonTypeSystemOOP\Pr03StringDisperser\bin\Debug\Pr03StringDisperser.pdb
+D:\OneDrive\Workspace\C#\HomeworkCommonTypeSystemOOP\Pr03StringDisperser\obj\Debug\Pr03StringDisperser.exe
+D:\OneDrive\Workspace\C#\HomeworkCommonTypeSystemOOP\Pr03StringDisperser\obj\Debug\Pr03StringDisperser.pdb
